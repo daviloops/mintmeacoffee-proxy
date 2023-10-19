@@ -1,5 +1,7 @@
-Minsta Proxy Contract
+Mintmeacoffee Proxy Contract 
 ==================
+This contract is an adaptation of mintbase's minsta proxy contract.
+Update: Owner_id was added and last_minter logic was removed.
 
 This app was initialized with [create-near-app]. 
 
